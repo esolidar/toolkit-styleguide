@@ -12,6 +12,12 @@ object-assign
 @license MIT
 */
 
+/*!
+  Copyright (c) 2015 Jed Watson.
+  Based on code that is Copyright 2013-2015, Facebook, Inc.
+  All rights reserved.
+*/
+
 /**
  * A better abstraction over CSS.
  *
@@ -20,12 +26,6 @@ object-assign
  * @license MIT
  */
 
-/*!
-  Copyright (c) 2015 Jed Watson.
-  Based on code that is Copyright 2013-2015, Facebook, Inc.
-  All rights reserved.
-*/
-
 /**
  * @license
  * Lodash <https://lodash.com/>
@@ -33,6 +33,18 @@ object-assign
  * Released under MIT license <https://lodash.com/license>
  * Based on Underscore.js 1.8.3 <http://underscorejs.org/LICENSE>
  * Copyright Jeremy Ashkenas, DocumentCloud and Investigative Reporters & Editors
+ */
+
+/*!
+ * Adapted from jQuery UI core
+ *
+ * http://jqueryui.com
+ *
+ * Copyright 2014 jQuery Foundation and other contributors
+ * Released under the MIT license.
+ * http://jquery.org/license
+ *
+ * http://api.jqueryui.com/category/ui-core/
  */
 
 /*!
@@ -142,6 +154,8 @@ object-assign
  * Copyright © 2012-2019 Faisal Salman <f@faisalman.com>
  * Licensed under MIT License
  */
+
+/*! @source http://purl.eligrey.com/github/FileSaver.js/blob/master/FileSaver.js */
 
 /** @license React v16.13.1
  * react.production.min.js
